@@ -19,3 +19,4 @@ resource "aws_instance" "rhel" {
   tags = {
     Name        = "terraform_instance"
   }
+  }
